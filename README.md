@@ -1,2 +1,2 @@
-# htmp_exapmle
+# htmp_example
 Пример простой веб-страницы
